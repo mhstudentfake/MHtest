@@ -1,4 +1,0 @@
-vless://e5185305-1984-4084-81e0-f77271159c62@mhminhtet-gcpbydeno-28.deno.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mhminhtet-gcpbydeno-28.deno.dev&fp=randomized&type=ws&sni=mhminhtet-gcpbydeno-28.deno.dev#MH%20Singapore%20%F0%9F%87%B8%F0%9F%87%AC
-vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@bokepindo.qzz.io:80?path=%2F47.81.9.160-443&security=&encryption=none&host=bokepindo.qzz.io&type=ws#TH%20Alibaba%20Cloud%20LLC
-vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@ava.game.naver.com:443?path=%2F46.3.109.228-443&security=tls&encryption=none&host=ava.game.naver.com.bokepindo.qzz.io&type=ws&sni=ava.game.naver.com.bokepindo.qzz.io#HK%20SAKURA%20LINK%20LIMITED
-vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@ava.game.naver.com:443?path=%2F141.147.188.120-443&security=tls&encryption=none&host=ava.game.naver.com.bokepindo.qzz.io&type=ws&sni=ava.game.naver.com.bokepindo.qzz.io#Random
